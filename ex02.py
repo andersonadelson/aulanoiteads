@@ -1,7 +1,0 @@
-nome = input("Entre com o nome")
-endereco = input("Entre com o endereço")
-cep = input("Entre com o CEP")
-telefone = input("Entre com o telefone")
-print (nome)
-print (endereco)
-print (cep, telefone)
